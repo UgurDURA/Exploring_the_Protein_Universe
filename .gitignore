@@ -2,3 +2,7 @@
 *.csv
 *.db
 *.txt
+*.h5
+*.json
+*.bin
+*.pt
